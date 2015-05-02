@@ -1,5 +1,0 @@
-This is a test file for GIT
-This is the first commit
-This is the second commit
-I've edited the file after the 3rd commit
-changed again
